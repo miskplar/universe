@@ -23,6 +23,9 @@ const contacts = [
 	]},
 	{id: '3', name: '任文龙', status: '已读不回', avatar: '任', prompt: '', messages: [
 		{role: 'monitor', content: '我最喜欢已读不回！'}
+	]},
+	{id: '4', name: '刘浩翔', status: '挑大粪', avatar: '翔', prompt: '', messages: [
+		{role: 'monitor', content: '不'}
 	]}
 ];
 
